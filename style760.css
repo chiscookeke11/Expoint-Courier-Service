@@ -1,0 +1,43 @@
+@media screen and (max-width:760px){
+
+	.envarto-logo{
+	width: 120px;
+}
+.nav-one{
+	padding: 10px 9px 10px 20px;
+}
+.nav-two{
+	display: none;
+}
+.nav-three .navbar{
+	padding: 20px 5px !important;
+}
+.expoint-logo{
+	width: 150px;
+}
+.navbar-dropdown-list{
+	display: none;
+}
+.nav-three .navbar-dropdown-list {
+	display: none;
+}
+.navbar-menu-btn{
+	display: block;
+}
+.nav-three .blue-btn{
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
